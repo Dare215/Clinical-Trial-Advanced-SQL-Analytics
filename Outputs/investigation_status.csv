@@ -1,0 +1,10 @@
+status,severity,count
+Closed,Critical,807
+Closed,Major,3355
+Closed,Minor,4179
+In Progress,Critical,206
+In Progress,Major,881
+In Progress,Minor,1107
+Open,Critical,148
+Open,Major,589
+Open,Minor,728
